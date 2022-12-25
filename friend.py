@@ -14,7 +14,7 @@ class Friend:
         self.its_me = me
     
     def update_status(self):
-        #TODO: Save meet requests and approvals to the server, and get meeting invites from server
+        #TODO: Save  meet requests and approvals to the server, and get meeting invites from server
         pass
     
     def ask_to_meet(self):
